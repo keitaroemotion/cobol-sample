@@ -13,6 +13,11 @@
            display name.
            display "You wanna buy it? [Y/n]".
            accept  answer.
+           if answer = 'y'
+               display 'Nice! You are really good person!'
+           else
+               display 'Ah... Okay...'
+           end-if.
       
       hello.
           stop    run.
