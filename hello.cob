@@ -20,5 +20,5 @@
            end-if.
       
       hello.
-          stop    run.
+          stop run.
 
