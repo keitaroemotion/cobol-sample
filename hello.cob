@@ -8,8 +8,8 @@
               01 name pic x(30).
       procedure      division.
            display str.
+           move    "https://www.amazon.com/Sushimagnus-Keita-Roimo/dp/B00VTLVQPM" to name.
       
       hello.
-          display "hello"
           stop    run.
 
